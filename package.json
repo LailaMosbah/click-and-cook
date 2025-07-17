@@ -1,5 +1,6 @@
 {
   "name": "recipe-app",
+  "homepage": "https://lailamosbah.github.io/click-and-cook",
   "private": true,
   "version": "0.0.0",
   "type": "module",
