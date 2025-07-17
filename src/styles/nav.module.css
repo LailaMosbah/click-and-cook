@@ -1,0 +1,20 @@
+.nav {
+    background-color: #C14600;
+    color: #FEF9E1;
+    padding: 20px;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Segoe UI', sans-serif;
+    letter-spacing: 1px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    /* ⬅️ Added shadow */
+    position: sticky;
+    /* Optional: Keeps it at top */
+    top: 0;
+    z-index: 1000;
+}
+
+.icon {
+    cursor: pointer;
+}
