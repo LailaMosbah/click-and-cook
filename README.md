@@ -1,4 +1,3 @@
-````markdown
 # 🍳 Click & Cook
 
 Click & Cook is a simple and user-friendly React-based web application that allows users to search for a wide variety of recipes using the [Spoonacular API](https://spoonacular.com/food-api). It’s designed to help users discover new dishes and get inspired in the kitchen.
